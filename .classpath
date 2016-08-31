@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/A/camunda-bpmn-model-7.2.0-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/A/camunda-cmmn-model-7.2.0-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/A/camunda-xml-model-7.2.0-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ap_orbital1.3/Orbital/lib/orbital-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ap_orbital1.3/Orbital/lib/orbital-ext.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/swingx-all-1.6.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/dom4j-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/jaxen-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/jaxen-jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/junit-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/log4j-1.2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/test-framework.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/truong/Downloads/lib/testXMI.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
